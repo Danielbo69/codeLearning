@@ -1,1 +1,0 @@
-export const REQUESTS_URL = 'https://us-central1-codelearning-18aad.cloudfunctions.net/codeLearningBack'
